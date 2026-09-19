@@ -15,7 +15,7 @@
         "ext-redis": "*",
         "ext-timezonedb": "*",
         "doctrine/dbal": "^4.4.1",
-        "doctrine/doctrine-bundle": "^2.18.2",
+        "doctrine/doctrine-bundle": "^3.0.0",
         "doctrine/orm": "^3.6.1",
         "doctrine/instantiator": "^2.0.0",
         "phpdocumentor/reflection-docblock": "^6.0.0",
